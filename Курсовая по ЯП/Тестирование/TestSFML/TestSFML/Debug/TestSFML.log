@@ -1,0 +1,29 @@
+﻿  main.cpp
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(31,42): warning C4244:  аргумент: преобразование "float" в "T", возможна потеря данных
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(31,42): warning C4244:         with
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(31,42): warning C4244:         [
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(31,42): warning C4244:             T=int
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(31,42): warning C4244:         ]
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(31,39): warning C4244:  аргумент: преобразование "float" в "T", возможна потеря данных
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(31,39): warning C4244:         with
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(31,39): warning C4244:         [
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(31,39): warning C4244:             T=int
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(31,39): warning C4244:         ]
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(55,14): warning C4244:  инициализация: преобразование "float" в "int", возможна потеря данных
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(56,15): warning C4244:  инициализация: преобразование "float" в "int", возможна потеря данных
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(62,23): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(68,23): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(148,14): warning C4244:  инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(153,55): warning C4244:  =: преобразование "float" в "int", возможна потеря данных
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(155,20): warning C4305:  аргумент: усечение из "double" в "float"
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(169,35): warning C4305:  =: усечение из "double" в "float"
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(170,33): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(176,35): warning C4305:  =: усечение из "double" в "float"
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(177,33): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(185,35): warning C4305:  =: усечение из "double" в "float"
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(186,33): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(194,35): warning C4305:  =: усечение из "double" в "float"
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(195,33): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(225,33): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+Y:\Курсовая по ЯП\Тестирование\TestSFML\TestSFML\main.cpp(225,25): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+  TestSFML.vcxproj -> Y:\Курсовая по ЯП\Тестирование\TestSFML\Debug\TestSFML.exe

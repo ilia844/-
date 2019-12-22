@@ -1,0 +1,78 @@
+﻿  Platformer.cpp
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(60,15): warning C4244:  return: преобразование "double" в "float", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(144,18): warning C4244:  инициализация: преобразование "double" в "float", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(145,24): warning C4244:  =: преобразование "float" в "int", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(185,41): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(185,26): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(242,27): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(242,24): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(263,22): warning C4244:  =: преобразование "int" в "T", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(263,22): warning C4244:         with
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(263,22): warning C4244:         [
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(263,22): warning C4244:             T=float
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(263,22): warning C4244:         ]
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(264,23): warning C4244:  =: преобразование "int" в "T", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(264,23): warning C4244:         with
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(264,23): warning C4244:         [
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(264,23): warning C4244:             T=float
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(264,23): warning C4244:         ]
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(265,25): warning C4244:  =: преобразование "int" в "T", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(265,25): warning C4244:         with
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(265,25): warning C4244:         [
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(265,25): warning C4244:             T=float
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(265,25): warning C4244:         ]
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(266,24): warning C4244:  =: преобразование "int" в "T", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(266,24): warning C4244:         with
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(266,24): warning C4244:         [
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(266,24): warning C4244:             T=float
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(266,24): warning C4244:         ]
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(29,29): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(29,22): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(33,29): warning C4244:  аргумент: преобразование "int" в "T", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(33,29): warning C4244:         with
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(33,29): warning C4244:         [
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(33,29): warning C4244:             T=float
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(33,29): warning C4244:         ]
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(33,26): warning C4244:  аргумент: преобразование "int" в "T", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(33,26): warning C4244:         with
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(33,26): warning C4244:         [
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(33,26): warning C4244:             T=float
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(33,26): warning C4244:         ]
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(45,114): warning C4244:  аргумент: преобразование "float" в "int", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(45,111): warning C4244:  аргумент: преобразование "float" в "int", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(50,47): warning C4244:  аргумент: преобразование "float" в "T", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(50,47): warning C4244:         with
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(50,47): warning C4244:         [
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(50,47): warning C4244:             T=int
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(50,47): warning C4244:         ]
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(50,44): warning C4244:  аргумент: преобразование "float" в "T", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(50,44): warning C4244:         with
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(50,44): warning C4244:         [
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(50,44): warning C4244:             T=int
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(50,44): warning C4244:         ]
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(58,1): warning C4305:  =: усечение из "double" в "float"
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(63,1): warning C4305:  =: усечение из "double" в "float"
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(69,1): warning C4305:  =: усечение из "double" в "float"
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(74,1): warning C4305:  =: усечение из "double" в "float"
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(83,1): warning C4305:  =: усечение из "double" в "float"
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(157,13): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(159,13): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(174,1): warning C4305:  =: усечение из "double" в "float"
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(222,1): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(232,1): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(245,13): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(274,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(309,14): warning C4244:  инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(350,22): warning C4305:  =: усечение из "double" в "float"
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(365,100): warning C4244:  аргумент: преобразование "const T" в "int", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(365,100): warning C4244:         with
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(365,100): warning C4244:         [
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(365,100): warning C4244:             T=float
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(365,100): warning C4244:         ]
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(365,71): warning C4244:  аргумент: преобразование "const T" в "int", возможна потеря данных
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(365,71): warning C4244:         with
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(365,71): warning C4244:         [
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(365,71): warning C4244:             T=float
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\Platformer.cpp(365,71): warning C4244:         ]
+Y:\Курсовая по ЯП\Проект платформер\Platformer\Platformer\level.h(312): warning C4715:  Level::GetObject: значение возвращается не при всех путях выполнения
+  Platformer.vcxproj -> Y:\Курсовая по ЯП\Проект платформер\Platformer\x64\Debug\Platformer.exe
